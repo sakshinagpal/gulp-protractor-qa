@@ -1,0 +1,68 @@
+{
+  "name": "gulp-protractor-qa",
+  "version": "0.2.0",
+  "description": "Gulp Protractor QA warns you on the fly whether all element() selectors could be found or not within your AngularJS view files.",
+  "license": "MIT",
+  "repository": {
+    "type": "git",
+    "url": "git://github.com/ramonvictor/gulp-protractor-qa.git"
+  },
+  "author": {
+    "name": "Ramon Victor",
+    "email": "ramon.wd@gmail.com",
+    "url": "https://github.com/ramonvictor"
+  },
+  "engines": {
+    "node": ">=0.10.0"
+  },
+  "main": "index.js",
+  "keywords": [
+    "gulpplugin",
+    "protractor",
+    "webdriver",
+    "e2e",
+    "tests",
+    "angularjs"
+  ],
+  "dependencies": {
+    "gulp-util": "2.2.14",
+    "gaze": "0.5.1",
+    "chalk": "0.4.0",
+    "cheerio": "0.15.0",
+    "buster-glob": "0.3.3",
+    "ast-traverse": "^0.1.1",
+    "esprima": "^2.6.0",
+    "async": "^1.4.2",
+    "underscore": "^1.8.3"
+  },
+  "bugs": {
+    "url": "https://github.com/ramonvictor/gulp-protractor-qa/issues"
+  },
+  "homepage": "https://github.com/ramonvictor/gulp-protractor-qa",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 0"
+  },
+  "gitHead": "256bfede09a1cfc792aeaa4ddf17ce2132570bf6",
+  "_id": "gulp-protractor-qa@0.2.0",
+  "_shasum": "98748fb0b743e74a6a1bb2b489cc579df71399c4",
+  "_from": "gulp-protractor-qa@latest",
+  "_npmVersion": "2.7.5",
+  "_nodeVersion": "0.12.2",
+  "_npmUser": {
+    "name": "ramonvictor",
+    "email": "ramon.wd@gmail.com"
+  },
+  "dist": {
+    "shasum": "98748fb0b743e74a6a1bb2b489cc579df71399c4",
+    "tarball": "http://registry.npmjs.org/gulp-protractor-qa/-/gulp-protractor-qa-0.2.0.tgz"
+  },
+  "maintainers": [
+    {
+      "name": "ramonvictor",
+      "email": "ramon.wd@gmail.com"
+    }
+  ],
+  "directories": {},
+  "_resolved": "https://registry.npmjs.org/gulp-protractor-qa/-/gulp-protractor-qa-0.2.0.tgz",
+  "readme": "ERROR: No README data found!"
+}
