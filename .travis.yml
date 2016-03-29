@@ -1,6 +1,9 @@
 os: osx
 sudo: false
 language: cpp
+branches:
+  only:
+    - master
 env:
   matrix:
     - TRAVIS_NODE_VERSION="0.10"
